@@ -1,0 +1,62 @@
+# St. Joseph River Watershed & Environmental Monitoring Network
+
+## Project Overview
+
+This GIS project visualizes the spatial configuration of an environmental
+monitoring network within the St. Joseph River watershed in northern Indiana
+and southwestern Michigan.
+
+The map integrates watershed boundaries, elevation data, river and tributary
+networks, flowlines, and environmental monitoring locations to provide
+spatial context for watershed-scale water-quality research.
+
+## Map Features
+
+- Watershed and sub-basin boundaries
+- Digital Elevation Model (DEM)
+- River and tributary network
+- Detailed hydrologic flowlines
+- Environmental sampling locations
+- ND-LEEF monitoring location
+- Sampling-basin location within the broader watershed
+
+## Monitoring Locations
+
+The mapped monitoring network includes:
+
+- Niles
+- APH
+- NDGC
+- HC
+- NDBH
+- BAKER
+- MISH
+- WC
+- ND-LEEF
+
+## GIS Skills Demonstrated
+
+- Watershed mapping
+- Spatial data integration
+- DEM visualization
+- Hydrologic network mapping
+- Layer clipping and spatial organization
+- Sampling-site visualization
+- Cartographic layout and map design
+- Inset/location mapping
+
+## Tools
+
+- ArcGIS Pro
+- Digital Elevation Model (DEM)
+- Watershed boundary data
+- Hydrologic flowline data
+- Environmental monitoring coordinates
+
+## Final Map
+
+![St. Joseph River Watershed and Monitoring Network](st_joseph_river_watershed.png)
+
+### Watershed Location
+
+![Sampling Basin Location](basin_location.png)
